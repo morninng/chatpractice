@@ -1,0 +1,25 @@
+{
+  "name": "chat2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/morninng/chatpractice.git"
+  },
+  "keywords": [
+    "takatori"
+  ],
+  "author": "moriyama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morninng/chatpractice/issues"
+  },
+  "homepage": "https://github.com/morninng/chatpractice#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
